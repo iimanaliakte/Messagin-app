@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(2, 2, 73);
+    background-color: rgb(29, 190, 211);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -35,7 +35,7 @@ input{
 }
 
 .Guest_message{
-    background-color: brown;
+    background-color: rgb(25, 92, 180);
     margin-right: 400px;
     border-radius: 1.5px;
     margin-left: 15px;
